@@ -1,0 +1,6 @@
+[submodule "mastodon-url-share-with-hashtags"]
+	path = mastodon-url-share-with-hashtags
+	url = https://gist.github.com/6aab32b10807bdd742808ff6f5d416f0.git
+[submodule "twitter-tweak"]
+	path = twitter-tweak
+	url = https://gist.github.com/f2cf9746163a32400f354f4384a283e9.git
